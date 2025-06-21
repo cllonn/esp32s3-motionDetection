@@ -7,7 +7,7 @@ A motion detection system using the ESP32-S3 Xiao-Sense. It compares grayscale f
 - [`FreeRTOS_Integration`](https://github.com/cllonn/esp32s3-motionDetection/tree/master/FreeRTOS_Integration): uses FreeRTOS tasks for better multitasking.
 - [`TimerStart`](https://github.com/cllonn/esp32s3-motionDetection/tree/master/TimerStart): simple Arduino-style code without RTOS.
 
-## ⚙Features
+## Features
 
 - Frame differencing in grayscale
 - Adjustable motion threshold
