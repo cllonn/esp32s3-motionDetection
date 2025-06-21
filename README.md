@@ -1,6 +1,6 @@
 # ESP32-S3 Motion Detection
 
-A motion detection system using the ESP32-S3 and camera. It compares grayscale frames to detect motion and trigger actions.
+A motion detection system using the ESP32-S3 Xiao-Sense. It compares grayscale frames to detect motion and trigger actions.
 
 ## Two Versions
 
